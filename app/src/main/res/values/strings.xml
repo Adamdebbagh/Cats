@@ -4,5 +4,7 @@
     <string name="app_name">Cats</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="image_title">Awsome cat name</string>
+    <string name="content_description">content image</string>
 
 </resources>
